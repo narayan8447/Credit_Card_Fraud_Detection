@@ -1,0 +1,15 @@
+# App
+streamlit==1.39.0
+plotly==5.24.1
+
+# Data and ML
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.2
+imbalanced-learn==0.12.3
+tensorflow==2.16.2
+joblib==1.4.2
+
+# TensorFlow serialization support
+protobuf==4.25.3
+h5py==3.11.0
